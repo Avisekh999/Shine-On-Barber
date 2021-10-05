@@ -259,4 +259,7 @@ a{
 	.slidetext{
 		font-size:27px;
 	}
+	.nav{
+		margin-left:-28px;
+	}
 }
